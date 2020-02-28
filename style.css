@@ -1,0 +1,67 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+}
+h1{
+   font-size:40px;  
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    color: rgba(219, 63, 115, 0.835);
+    font-family: 'Black Han Sans', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.header{
+    background-image: url("personal-website/header-bg.png");
+    background-size: 100%;
+}
+section{
+    height: 1000px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgba(219, 63, 115, 0.835);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;  
+}
+.biography{
+    background-image: url("personal-website/biography-bg.png");
+    background-size: 100%;
+  
+}
+h3{
+    text-align: center;  
+    font-size: 30px;
+}
+.latest-work{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.my-latest{
+    height: 20%;
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    border-image: 2%;   
+}
+h4{
+    text-align: center;
+    font-size: 25%;
+}
+h5{
+    text-align: center;
+    font-size: 22%;    
+}
+.footer{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+}
